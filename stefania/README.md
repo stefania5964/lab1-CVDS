@@ -16,3 +16,5 @@
 ### Mi Mascota
 ![conejito](https://postgradoveterinaria.com/wp-content/uploads/razas-de-conejos.jpg)
     x=2;
+![foto1](./tefa1.png)
+![foto2](./tefa2.png)
